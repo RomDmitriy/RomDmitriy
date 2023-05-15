@@ -30,6 +30,7 @@ Hi! 👋
 - Docker & Docker Compose.
 ---
 #### Other:
+- Git;
 - OOP;
 - SOLID;
 - Clean Code;
