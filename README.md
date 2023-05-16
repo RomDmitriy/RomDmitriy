@@ -6,10 +6,16 @@ Hi! 👋
 - want to become a project manager when I have enough production experience in programming.
 ---
 ### Languages:
-- JavaScript (~2 years of coding);
-- TypeScript (~1 year of coding);
-- Python (~1 year of coding);
-- C++ (actively wrote on it in 2020-2021, now I use it only for writing laboratory work for money).
+<div style='display: flex; flex-direction: row; justify-content: space-between'>
+<ul style='width: 40%'>
+<li>JavaScript (~2 years of coding);</li>
+<li>TypeScript (~1 year of coding);</li>
+<li>Python (~1 year of coding);</li>
+<li>C++ (actively wrote on it in 2020-2021, now I use it only for writing laboratory work for money).</li>
+</ul>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomDmitriy&show_icons=true&locale=en&layout=compact&theme=dracula" alt="RomDmitriy" />
+</div>
+
 ---
 ### Technology stack:
 #### Node.js:
@@ -36,7 +42,6 @@ Hi! 👋
 - Clean Code;
 - MVC.
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomDmitriy&show_icons=true&locale=en&layout=compact&theme=dracula" alt="RomDmitriy" />
 <!--
 **RomDmitriy/RomDmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
