@@ -3,7 +3,7 @@ Hi! 👋
 ### About me:
 - 20 y.o.;
 - backend developer;
-- want to move into project management when I have enough production experience in programming.
+- want to become a project manager when I have enough production experience in programming.
 ---
 ### Languages:
 - JavaScript (~2 years of coding);
