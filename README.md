@@ -19,7 +19,7 @@ Hi! 👋
 - ORM Sequelize;
 - Swagger;
 - Angular (little bit);
-- Tailwind CSS (little bit);
+- Tailwind CSS;
 - Discord.js.
 ---
 #### Databases:
