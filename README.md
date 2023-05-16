@@ -31,7 +31,7 @@ Hi! 👋
 ---
 #### Other:
 - Git;
-- OOP;
+- OOP (little bit);
 - SOLID;
 - Clean Code;
 - MVC.
