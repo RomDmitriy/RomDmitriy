@@ -8,7 +8,7 @@ Hi! 👋
 ### Languages:
 - JavaScript (~2 years of coding);
 - TypeScript (~1 year of coding);
-- Python (~2 years of coding);
+- Python (~1 year of coding);
 - C++ (actively wrote on it in 2020-2021, now I use it only for writing laboratory work for money).
 ---
 ### Technology stack:
