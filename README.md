@@ -11,7 +11,7 @@ Hi! 👋
 <li>JavaScript (~2 years of coding);</li>
 <li>TypeScript (~1 year of coding);</li>
 <li>Python (~1 year of coding);</li>
-<li>C++ (actively wrote on it in 2020-2021, now I use it only for writing laboratory work for money).</li>
+<li>C++ (actively wrote on it in 2020-2021).</li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomDmitriy&show_icons=true&locale=en&layout=compact&theme=dracula" alt="RomDmitriy" />
 </div>
