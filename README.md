@@ -31,6 +31,7 @@ Hi! 👋
 ---
 #### Databases:
 - PostgreSQL;
+- MongoDB;
 - Redis (little bit).
 ---
 #### DevOps:
