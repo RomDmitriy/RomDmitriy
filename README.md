@@ -31,8 +31,7 @@ Hi! 👋
 ---
 #### Databases:
 - PostgreSQL;
-- MongoDB;
-- Redis (little bit).
+- MongoDB.
 ---
 #### DevOps:
 - Docker & Docker Compose.
