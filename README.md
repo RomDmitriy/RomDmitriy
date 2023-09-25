@@ -3,7 +3,7 @@ Hi! 👋
 ### About me:
 - 20 y.o.;
 - backend developer;
-- want to become a project manager when I have enough production experience in programming.
+- want to become a project manager or lead when I have enough production experience in programming.
 ---
 ### Languages:
 <div style='display: flex; flex-direction: row; justify-content: space-between'>
