@@ -33,7 +33,9 @@ Hi! 👋
 - PostgreSQL;
 - MongoDB.
 ---
-#### DevOps:
+#### DevOps & Linux:
+- Linux user (2 months);
+- PM2;
 - Docker & Docker Compose.
 ---
 #### Other:
