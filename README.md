@@ -1,7 +1,7 @@
 Hi! 👋
 ---
 ### About me:
-- 20 y.o.;
+- 21 y.o.;
 - backend developer;
 - want to become a project manager or lead when I have enough production experience in programming.
 ---
