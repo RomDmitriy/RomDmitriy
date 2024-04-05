@@ -34,7 +34,7 @@ Hi! 👋
 - MongoDB.
 ---
 #### DevOps & Linux:
-- Linux user (5 months);
+- Linux user (from 07/2023);
 - PM2;
 - Docker & Docker Compose.
 ---
