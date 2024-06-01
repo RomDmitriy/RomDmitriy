@@ -24,8 +24,8 @@ Hi! 👋
 - ORM Prisma;
 - ORM Sequelize;
 - Swagger;
-- WS (WebSocket);
-- Angular (little bit);
+- WebSocket;
+- React & Angular (little bit);
 - Tailwind CSS;
 - Discord.js.
 ---
