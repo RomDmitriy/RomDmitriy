@@ -19,15 +19,18 @@ Hi! 👋
 ---
 ### Technology stack:
 #### Node.js:
-- Nest.js;
+##### Backend:
+- Nest.js (~2 years of coding);
 - Express;
 - ORM Prisma;
 - ORM Sequelize;
 - Swagger;
 - WebSocket;
-- React & Angular (little bit);
-- Tailwind CSS;
 - Discord.js.
+##### Frontend:
+- Next.js (React);
+- Angular (little bit);
+- Tailwind CSS.
 ---
 #### Databases:
 - PostgreSQL;
@@ -39,9 +42,5 @@ Hi! 👋
 - Docker & Docker Compose.
 ---
 #### Other:
-- Git;
-- OOP;
-- SOLID;
-- Clean Code;
-- MVC.
+- Git & Git Flow;
 ---
