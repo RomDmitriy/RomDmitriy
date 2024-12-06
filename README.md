@@ -10,8 +10,8 @@ Hi! 👋
 <ul style='width: 40%'>
 <li><b>JavaScript & TypeScript</b>;</li>
 <li>Python;</li>
-<li>C++.</li>
 <li>Go;</li>
+<li>C++.</li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RomDmitriy&show_icons=true&locale=en&layout=compact&theme=dracula" alt="RomDmitriy" />
 </div>
@@ -20,15 +20,15 @@ Hi! 👋
 ### Technology stack:
 #### Node.js:
 ##### Backend:
-- Nest.js;
-- Express;
-- ORM Prisma;
-- ORM Sequelize;
+- Nest;
 - Swagger;
+- ORM: TypeORM, Prisma, sometimes Sequelize;
+- NATS;
 - WebSocket;
+  Libraries:
 - Discord.js.
 ##### Frontend:
-- Next.js (React);
+- Next.js (little bit);
 - Angular (little bit);
 - Tailwind CSS.
 ---
@@ -38,9 +38,10 @@ Hi! 👋
 ---
 #### DevOps & Linux:
 - Arch Linux user (from 07/2023);
-- PM2;
-- Docker & Docker Compose.
+- Docker & Docker Compose;
+- PM2.
 ---
 #### Other:
 - Git & Git Flow;
+- AGILE & Kanban mutant :).
 ---
