@@ -18,8 +18,7 @@ Hi! 👋
 
 ---
 ### Technology stack:
-#### Node.js:
-##### Backend:
+#### Backend:
 - Nest;
 - Swagger;
 - ORM: TypeORM, Prisma, sometimes Sequelize;
@@ -27,7 +26,7 @@ Hi! 👋
 - WebSocket;
   Libraries:
 - Discord.js.
-##### Frontend:
+#### Frontend:
 - Next.js (little bit);
 - Angular (little bit);
 - Tailwind CSS.
