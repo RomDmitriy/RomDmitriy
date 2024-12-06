@@ -34,7 +34,8 @@ Hi! 👋
 ---
 #### Databases:
 - PostgreSQL;
-- MongoDB.
+- MongoDB;
+- Redis.
 ---
 #### DevOps & Linux:
 - Arch Linux user (from 07/2023);
