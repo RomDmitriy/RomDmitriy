@@ -2,8 +2,7 @@ Hi! 👋
 ---
 ### About me:
 - 22 y.o.;
-- backend developer;
-- want to become a project manager or lead when I have enough production experience in programming.
+- Backend Developer & TechLead.
 ---
 ### Languages:
 <div style='display: flex; flex-direction: row; justify-content: space-between'>
@@ -19,7 +18,7 @@ Hi! 👋
 ---
 ### Technology stack:
 #### Backend:
-- Nest;
+- Nest & Express;
 - Swagger;
 - ORM: TypeORM, Prisma, sometimes Sequelize;
 - NATS;
