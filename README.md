@@ -1,7 +1,7 @@
 Hi! 👋
 ---
 ### About me:
-- 22 y.o.;
+- 23 y.o.;
 - Backend Developer & TechLead.
 ---
 ### Languages:
